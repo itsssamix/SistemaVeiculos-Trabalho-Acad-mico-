@@ -11,6 +11,7 @@ Este projeto é um sistema simples de cadastro e gerenciamento de veículos, cri
 
  Funcionalidades:
 
+CRUD
  Cadastrar veículos  
  Listar todos os veículos cadastrados  
  Remover veículos  
